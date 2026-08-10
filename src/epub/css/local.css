@@ -206,6 +206,10 @@ section[epub|type~="dedication"] > p{
 	text-align: center;
 }
 
+#the-grand-dukes-rubies blockquote b{
+	font-style: normal;
+}
+
 #mary-magdalen-10 blockquote p{
 	text-align: center;
 	text-indent: initial;
