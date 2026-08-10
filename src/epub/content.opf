@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-saltus/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-08-10T19:13:28Z</dc:date>
+		<meta property="dcterms:modified">2026-08-10T19:13:28Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -32,9 +32,7 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<dc:subject id="subject-2">Short Stories</dc:subject>
-		<!-- Eden -->
 		<dc:subject id="subject-3">Married women -- Fiction</dc:subject>
-		<!-- Mary Magdalen -->
 		<dc:subject id="subject-4">Biographical fiction</dc:subject>
 		<dc:subject id="subject-5">Christian fiction</dc:subject>
 		<dc:subject id="subject-6">Bible -- History of Biblical events -- Fiction</dc:subject>
@@ -58,10 +56,10 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta property="schema:abstract">A collection of novellas and short stories by Edgar Saltus.</meta>
 		<dc:description>
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-saltus"&gt;Edgar Saltus&lt;/a&gt; was a writer of decadent fiction with a pessimistic bent, as is common in fin de siècle literature, and characterized by a wit reminiscent of &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; and other contemporaries. Between 1887, the year he debuted with &lt;i&gt;Mr. Incoul’s Misadventure&lt;/i&gt;, and 1895, novels, novellas, and short stories followed one another in rapid succession, and to great success. Critics condemned his works as immoral and the public was scandalized, but for a while, Edgar Saltus was infamous. His stories weave a common thread: love, lust and greed, distrust and deceit among the upper classes of late nineteenth-century New York, who also regularly retreat to Paris, the Riviera, London, and other destinations frequented by the super-rich of the time.&lt;/p&gt;
-			&lt;p&gt;There are outliers. “A Transient Guest” finds its protagonist in the Dutch East-Indies. “Mary Magdalen,” an historical novella, recounts the final days of Jesus Christ through the perspective of Mary Magdalene. And although “Madam Sapphira” is more in line with his other works, its story bears striking similarities to the circumstances surrounding Saltus’s highly publicized divorce from his first wife. Written to clear his name and that of his corespondents, its publication had the opposite effect.&lt;/p&gt;
-			&lt;p&gt;After 1895, the name Edgar Saltus began to lose its luster. He continued to write and publish, but less often and to much less attention. At the same time, the cynical worldview that defined his early output shifted. Inspired by Theosophy, he gradually became milder and more optimistic, the effect of which is noticeable throughout his later work.&lt;/p&gt;
-			&lt;p&gt;During this second half of his career Saltus frequently revisited ideas, plot lines, phrases and passages. For this collection, a careful editorial selection was made to avoid overlap between individual stories in this collection, as well as other Standard Ebooks productions.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-saltus"&gt;Edgar Saltus&lt;/a&gt; was a writer of decadent fiction with a pessimistic bent and characterized by a wit reminiscent of &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt;. After his 1887 debut with &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-saltus/mr-incouls-misadventure"&gt;Mr. Incoul’s Misadventure&lt;/a&gt;&lt;/i&gt; he wrote many novels, novellas, and short stories in rapid succession, and to great success. Critics condemned his works as immoral and the public was scandalized, but for a while, Edgar Saltus was infamous. His stories weave a common thread: love, lust, greed, distrust, and deceit among the upper classes of late nineteenth-century New York, who also regularly retreat to Paris, the Riviera, London, and other destinations frequented by the era’s super-rich.&lt;/p&gt;
+			&lt;p&gt;There are outliers. “A Transient Guest” finds its protagonist in the Dutch East-Indies. “Mary Magdalen,” an historical novella, recounts the final days of Jesus Christ through the perspective of the title character. And although “Madam Sapphira” is more in line with his other works, its story bears striking similarities to the circumstances surrounding Saltus’s highly publicized divorce from his first wife. Written to clear his name and that of his corespondents, its publication had the opposite effect.&lt;/p&gt;
+			&lt;p&gt;After 1895, the name Edgar Saltus began to lose its luster. He continued to write and publish, but less often and to much less attention. At the same time, the cynical worldview that defined his early output shifted. Inspired by religious movement of Theosophy, he gradually became milder and more optimistic, the effect of which is noticeable in his later work.&lt;/p&gt;
+			&lt;p&gt;During this second half of his career Saltus frequently reused and recycled ideas, phrases, passages, and even whole plots. This collection has been carefully edited to avoid including such obviously redundant material and to avoid overlap between these stories and other Standard Ebooks titles.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!-- Eden -->
@@ -123,8 +121,8 @@
 		<dc:source>https://archive.org/details/sim_ainslees_1917-05_39_4</dc:source>
 		<!-- The Goblin Girl, page 87 -->
 		<dc:source>https://archive.org/details/sim_ainslees_1919-10_44_3</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">341318</meta>
+		<meta property="schema:educationalLevel">74.39</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/edgar-saltus_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -163,6 +161,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
